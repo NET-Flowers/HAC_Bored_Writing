@@ -3,7 +3,6 @@
 各种未授权、RCE、文件上传、sql注入、信息泄露漏洞批量扫描poc、exp,跟踪最新漏洞实时更新,目前是把之前写的整合在一起,后续新增会在最下边加一个时间线，想看最新的poc、exp可以根据时间线来选择
 
 ## 2023
-- [22w22w](./FileRead)
 - [LiveBos ShowImage.do文件读取](./FileRead/LiveBos_fileread)
 - [新开普智慧校园系统_service.action_rce](./RCE/新开普智慧校园系统)
 - [Metabase_CVE-2023-38646_rce](./RCE/Metabase_CVE-2023-38646)
